@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="webDriverManager.EdgeDriver_WebDriverManager"/>
+      <class name="headlessMode.ChromeDriver_HeadlessMode"/>
+      <class name="headlessMode.EdgeDriver_HeadlessMode"/>
+      <class name="headlessMode.InternetExplorerDriver_HeadlessMode"/>
+      <class name="headlessMode.FirefoxDriver_HeadlessMode"/>
+      <class name="webDriverManager.InternetExplorerDriver_WebDriverManager"/>
+      <class name="webDriverManager.ChromeDriver_WebDriverManager"/>
+      <class name="webDriverManager.FirefoxDriver_WeBDriverManager"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

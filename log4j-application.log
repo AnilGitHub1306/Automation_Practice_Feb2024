@@ -1,0 +1,11 @@
+2024-02-25 23:56:34,876  INFO [main] Automation_Practice_Feb2024:24 - Browser opened 
+2024-02-25 23:56:38,053  INFO [main] Automation_Practice_Feb2024:28 - URL opened
+2024-02-25 23:56:38,081  INFO [main] Automation_Practice_Feb2024:31 - actualTitle: 
+2024-02-25 23:56:38,082  INFO [main] Automation_Practice_Feb2024:33 - expectedTitle: 
+2024-02-25 23:56:40,606  INFO [main] Automation_Practice_Feb2024:38 - Browser closed
+2024-02-25 23:58:04,087  INFO [main] Automation_Practice_Feb2024:24 - ************************************************************************ 
+2024-02-25 23:58:04,099  INFO [main] Automation_Practice_Feb2024:25 - Browser opened 
+2024-02-25 23:58:08,362  INFO [main] Automation_Practice_Feb2024:29 - URL opened
+2024-02-25 23:58:08,435  INFO [main] Automation_Practice_Feb2024:32 - actualTitle: 
+2024-02-25 23:58:08,436  INFO [main] Automation_Practice_Feb2024:34 - expectedTitle: 
+2024-02-25 23:58:11,114  INFO [main] Automation_Practice_Feb2024:39 - Browser closed
