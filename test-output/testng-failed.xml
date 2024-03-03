@@ -3,11 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="log.CreatLog">
+      <class name="com.Test_Class_Package.TC001_verify_Title_Of_Page">
         <methods>
-          <include name="createLog"/>
+          <include name="VeifyTitleOfPage"/>
+          <include name="extendReportTearDown"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="extendReportSetup"/>
         </methods>
-      </class> <!-- log.CreatLog -->
+      </class> <!-- com.Test_Class_Package.TC001_verify_Title_Of_Page -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
